@@ -1,0 +1,74 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Open+Sans:wght@300&family=Pacifico&family=Teko:wght@300&display=swap');
+
+#searchBar{
+    width: 400px;
+    height: 40px;
+    padding: 5px 10px;
+    border: 3px solid;
+    border-radius: 20px;
+    outline: color black;
+    margin-left: 422px;
+}
+#k1{
+    margin-left: 50px;
+}
+#g1{
+    margin-left: 418px;
+
+}
+#f1{
+    margin-left: 20px;
+}
+#b1{
+    margin-left: 20px;
+}
+#e1{
+    height: 300px;
+    width: 100%;
+    border-radius: 20px;
+    background-image: url(./images/wp1955025.jpg)
+}
+h1{
+    text-align: center;
+    
+}
+.c{
+    height: 500px;
+    width: 200px;
+    border: black solid 20px;
+    float: left;
+    background-color: black;
+    margin-left: 80px;
+    
+}
+img{
+    height:300px ;
+    width: 200px;
+    box-shadow: 10px 10px rgb(7, 60, 78);
+}
+#x1{
+    height: 30pxpx;
+    width: 100%;
+    background-color: white;
+    border: solid 2px white;
+    margin-top: 60px;
+}
+a{
+    margin-right: 150px;
+}
+
+p{
+color: whitesmoke;
+font-family: 'Open Sans', sans-serif;
+font-size: small;
+}
+p:hover{
+    
+    color: red;
+    
+}
+
+
+
